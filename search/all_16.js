@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['validate_1582',['Validate',['../class_t_m_pro_1_1_t_m_p___input_field.html#afd6552ded1ac4de1c4efd868bdc66a33',1,'TMPro::TMP_InputField']]],
+  ['validatehtmltag_1583',['ValidateHtmlTag',['../class_t_m_pro_1_1_t_m_p___text.html#a76d0eee876964ce9802f7176a61e70d7',1,'TMPro::TMP_Text']]],
+  ['value_1584',['value',['../class_t_m_pro_1_1_t_m_p___dropdown.html#a0e886902a8de21487e23342580d68728',1,'TMPro::TMP_Dropdown']]],
+  ['vector2comparerwithequalsoperator_1585',['Vector2ComparerWithEqualsOperator',['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector2_comparer_with_equals_operator.html',1,'UnityEngine::TestTools::Utils']]],
+  ['vector2equalitycomparer_1586',['Vector2EqualityComparer',['../md__library__package_cache_com_unity_test_framework_1_1_22__documentation__reference_comparer_vector2.html',1,'(Global Namespace)'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector2_equality_comparer.html',1,'UnityEngine.TestTools.Utils.Vector2EqualityComparer'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector2_equality_comparer.html#a43a4ca52b2f4c1955704fddcbab12957',1,'UnityEngine.TestTools.Utils.Vector2EqualityComparer.Vector2EqualityComparer()']]],
+  ['vector3comparerwithequalsoperator_1587',['Vector3ComparerWithEqualsOperator',['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector3_comparer_with_equals_operator.html',1,'UnityEngine::TestTools::Utils']]],
+  ['vector3equalitycomparer_1588',['Vector3EqualityComparer',['../md__library__package_cache_com_unity_test_framework_1_1_22__documentation__reference_comparer_vector3.html',1,'(Global Namespace)'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector3_equality_comparer.html',1,'UnityEngine.TestTools.Utils.Vector3EqualityComparer'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector3_equality_comparer.html#a883a96226e3f26dc7af6ed9600aa4c14',1,'UnityEngine.TestTools.Utils.Vector3EqualityComparer.Vector3EqualityComparer()']]],
+  ['vector4comparerwithequalsoperator_1589',['Vector4ComparerWithEqualsOperator',['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector4_comparer_with_equals_operator.html',1,'UnityEngine::TestTools::Utils']]],
+  ['vector4equalitycomparer_1590',['Vector4EqualityComparer',['../md__library__package_cache_com_unity_test_framework_1_1_22__documentation__reference_comparer_vector4.html',1,'(Global Namespace)'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector4_equality_comparer.html',1,'UnityEngine.TestTools.Utils.Vector4EqualityComparer'],['../class_unity_engine_1_1_test_tools_1_1_utils_1_1_vector4_equality_comparer.html#a847c3bbd34ec345e54522b2f1b6f086f',1,'UnityEngine.TestTools.Utils.Vector4EqualityComparer.Vector4EqualityComparer()']]],
+  ['version_1591',['version',['../class_t_m_pro_1_1_t_m_p___settings.html#a38df8ce7c134d19b17a3eb3a761eba67',1,'TMPro.TMP_Settings.version()'],['../class_t_m_pro_1_1_t_m_p___sprite_asset.html#a20913ff681de8a5b31d69d32e846f94f',1,'TMPro.TMP_SpriteAsset.version()'],['../class_t_m_pro_1_1_t_m_p___font_asset.html#abd8857b27602339ef52ee928df174447',1,'TMPro.TMP_FontAsset.version()']]],
+  ['vertexbufferautosizereduction_1592',['vertexBufferAutoSizeReduction',['../class_t_m_pro_1_1_t_m_p___text.html#a83b42b0df7709b09d7fc5687873859d6',1,'TMPro::TMP_Text']]],
+  ['vertexgradient_1593',['VertexGradient',['../struct_t_m_pro_1_1_vertex_gradient.html',1,'TMPro.VertexGradient'],['../struct_t_m_pro_1_1_vertex_gradient.html#aebe3e48a4520fa379a6a8a175cb24bac',1,'TMPro.VertexGradient.VertexGradient()']]],
+  ['verticalalignment_1594',['verticalAlignment',['../class_t_m_pro_1_1_t_m_p___text.html#ad86330f1b095da6d2e8f8aa03d863480',1,'TMPro::TMP_Text']]],
+  ['verticalalignmentoptions_1595',['VerticalAlignmentOptions',['../namespace_t_m_pro.html#a338a80617042b3c70d3ede20fe5ae80b',1,'TMPro']]],
+  ['verticalmapping_1596',['verticalMapping',['../class_t_m_pro_1_1_t_m_p___text.html#acd761b8efd2cdbd37d3d288d9609df94',1,'TMPro::TMP_Text']]],
+  ['views_1597',['Views',['../md__library__package_cache_com_unity_collab_proxy_1_3_9__editor__views__r_e_a_d_m_e.html',1,'']]],
+  ['visualstudioeditor_1598',['VisualStudioEditor',['../class_microsoft_1_1_unity_1_1_visual_studio_1_1_editor_1_1_visual_studio_editor.html',1,'Microsoft::Unity::VisualStudio::Editor']]],
+  ['vscodediscovery_1599',['VSCodeDiscovery',['../class_v_s_code_editor_1_1_v_s_code_discovery.html',1,'VSCodeEditor']]],
+  ['vscodeeditor_1600',['VSCodeEditor',['../namespace_v_s_code_editor.html',1,'']]],
+  ['vscodescripteditor_1601',['VSCodeScriptEditor',['../class_v_s_code_editor_1_1_v_s_code_script_editor.html',1,'VSCodeEditor']]]
+];
